@@ -20,10 +20,6 @@ Hazır sistemler yerine, kendi bilginizle bir şeyler inşa etmek her zaman daha
 
 ---
 
-Tabii! Aşağıda README.md dosyasının **Kurulum** bölümünden sonrasını profesyonel ve anlaşılır şekilde geliştirdim. Markdown formatına uygun olarak yazıldı:
-
----
-
 # KURULUM
 
 Bu botu kurabilmeniz için aşağıdaki adımları takip etmelisiniz:

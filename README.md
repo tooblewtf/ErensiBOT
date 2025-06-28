@@ -5,7 +5,7 @@
 <h1 align="center">ErensiBOT</h1>
 <div align="center">
 
-[![Node.js](https://img.shields.io/badge/Node.JS-24.1.0-green?logo=nodedotjs)](https://github.com/tooblewtf/ErensiBOT)
+[![Node.js](https://img.shields.io/badge/Node.JS-24.3.0-green?logo=nodedotjs)](https://github.com/tooblewtf/ErensiBOT)
 
 ErensiBOT Türkiyenin En Büyük ve En Kaliteli Discord Botudur.
 </div>

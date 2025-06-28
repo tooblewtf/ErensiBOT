@@ -1,5 +1,5 @@
 <div align="center">
-<img src="ErensiBOTLOGO.png" alt="Erensik" width="300"/>
+<img src="ErensiBOTLogo.png" alt="Erensik" width="300"/>
 </div>
 
 <h1 align="center">ErensiBOT</h1>
